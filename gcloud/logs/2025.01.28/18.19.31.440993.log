@@ -1,3 +1,0 @@
-2025-01-28 18:19:31,441 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
-2025-01-28 18:19:31,444 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'activate_service_account']
-2025-01-28 18:19:31,445 ERROR    root            (gcloud.auth.activate-service-account) argument --key-file: Must be specified.
