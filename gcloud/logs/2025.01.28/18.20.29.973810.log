@@ -1,0 +1,82 @@
+2025-01-28 18:20:29,979 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
+2025-01-28 18:20:29,980 DEBUG    root            Running [gcloud.projects] with arguments: [--help: "None"]
+2025-01-28 18:20:29,984 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'create']
+2025-01-28 18:20:29,985 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'update']
+2025-01-28 18:20:29,986 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'describe']
+2025-01-28 18:20:29,990 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'get_iam_policy']
+2025-01-28 18:20:29,990 DEBUG    root            No implementation for release track [GA] for element: [/Users/gravitynx/Downloads/google-cloud-sdk/lib/surface/projects/move]
+2025-01-28 18:20:30,016 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'remove_iam_policy_binding']
+2025-01-28 18:20:30,025 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'get_ancestors']
+2025-01-28 18:20:30,028 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'delete']
+2025-01-28 18:20:30,029 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'get_ancestors_iam_policy']
+2025-01-28 18:20:30,030 DEBUG    root            No implementation for release track [GA] for element: [/Users/gravitynx/Downloads/google-cloud-sdk/lib/surface/projects/search]
+2025-01-28 18:20:30,030 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'list']
+2025-01-28 18:20:30,032 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'set_iam_policy']
+2025-01-28 18:20:30,035 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'add_iam_policy_binding']
+2025-01-28 18:20:30,038 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'undelete']
+2025-01-28 18:20:30,040 DEBUG    root            Loaded Command Group: ['gcloud', 'help']
+2025-01-28 18:20:30,042 INFO     ___FILE_ONLY___ [m[1mNAME[m
+    gcloud projects - create and manage project access policies
+
+[m[1mSYNOPSIS[m
+    [1mgcloud projects[m [4mCOMMAND[m [[4mGCLOUD_WIDE_FLAG ...[m]
+
+[m[1mDESCRIPTION[m
+    The gcloud projects group lets you create and manage IAM policies for
+    projects on the Google Cloud Platform. Resources are organized
+    hierarchically and assigned to a particular project. A Project resource is
+    required to use Google Cloud Platform, and forms the basis for creating,
+    enabling and using all Cloud Platform services, managing APIs, enabling
+    billing, adding and removing collaborators, and managing permissions.
+
+    More information on the Cloud Platform Resource Hierarchy and the project
+    resource can be found here:
+    https://cloud.google.com/resource-manager/docs/creating-managing-organization
+    and detailed documentation on creating and managing projects can be found
+    here:
+    https://cloud.google.com/resource-manager/docs/creating-managing-projects
+
+[m[1mGCLOUD WIDE FLAGS[m
+    These flags are available to all commands: --help.
+
+    Run [1m$ gcloud help[m for details.
+
+[m[1mCOMMANDS[m
+    [1m[1;4mCOMMAND[1m[m is one of the following:
+
+     [1madd-iam-policy-binding[m
+        Add IAM policy binding for a project.
+
+     [1mcreate[m
+        Create a new project.
+
+     [1mdelete[m
+        Delete a project.
+
+     [1mdescribe[m
+        Show metadata for a project.
+
+     [1mget-ancestors[m
+        Get the ancestors for a project.
+
+     [1mget-ancestors-iam-policy[m
+        Get IAM policies for a project and its ancestors.
+
+     [1mget-iam-policy[m
+        Get IAM policy for a project.
+
+     [1mlist[m
+        List projects accessible by the active account.
+
+     [1mremove-iam-policy-binding[m
+        Remove IAM policy binding for a project.
+
+     [1mset-iam-policy[m
+        Set IAM policy for a project.
+
+     [1mundelete[m
+        Undelete a project.
+
+     [1mupdate[m
+        Update the name of a project.
+[m

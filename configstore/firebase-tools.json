@@ -1,0 +1,39 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1738451386940
+	},
+	"usage": true,
+	"analytics-uuid": "506290da-0ee4-4307-a8a0-1943067c5f55",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "100804292047267429593",
+		"email": "charitraarora@gmail.com",
+		"email_verified": true,
+		"at_hash": "dH7j9g6v37UbLXE0PXz90g",
+		"iat": 1738451407,
+		"exp": 1738455007
+	},
+	"tokens": {
+		"expires_at": 1738455006591,
+		"access_token": "ya29.a0AXeO80RcgME2_oAPx5A92nYRZrWTK1Pu-pmZ8EHf9d1ogfyIozvdzU3e0yFFm-rl1f-oMQb1Kt0n-_XkARnb5huhhCCfH85ChZro0dGnIReOlpENbWoxkfBWc9ElYXZr8loEdg3Mt12by0xXE4VDmvQgyYsNseSzTwNzlj2YP8OCBAaCgYKAfkSARASFQHGX2MiVhj_bkCvkcwWvSaws3Ojrg0181",
+		"expires_in": 3599,
+		"refresh_token": "1//0govXzxMtY-qdCgYIARAAGBASNwF-L9Irp9LBmtd_p01BU2SMIfotZZg9Kxwwj0w26-v_Oh1mtougGMfyQFrMyOo5CxnUUxPj_NU",
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImZhMDcyZjc1Nzg0NjQyNjE1MDg3YzcxODJjMTAxMzQxZTE4ZjdhM2EiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAwODA0MjkyMDQ3MjY3NDI5NTkzIiwiZW1haWwiOiJjaGFyaXRyYWFyb3JhQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiZEg3ajlnNnYzN1ViTFhFMFBYejkwZyIsImlhdCI6MTczODQ1MTQwNywiZXhwIjoxNzM4NDU1MDA3fQ.X6n25Rlr0Q0Jqo-z5sUP4rBYo6Bx4VP5XVxgjtFUb8JsjHIEwBP6NWWWaHdzuZ_FDYP8llfJKwptMEfu-ZWfrojMTrzVXc6vaXLJQ6SuPKfx52D54fFpDP9i9aXx0dXDSd-LXy9eqX5gTxoCWXM1U0aosUNZ-XqSEbu4MhGzjZiRoh0SmK27P87PwxBytJoaWqPEToHBtFkR9TYocgg-zjsYZ2UIdccdtDao9Ebjg-eVtH_L7cQ2AEzGzJVuTh-rudXE4LpCK3Q7l8Lk4vHHPR4-noYRXxpQj5AfqroIum9PhvBm52dusc64GqKEaFSIv2Fd3CTcpjcRqNTphptB0A"
+	},
+	"emulator-analytics-clientId": "2a8d8ae7-99a2-4a44-8070-747670a70034",
+	"activeProjects": {
+		"/Users/gravitynx/work/neo": "neo-app-dev-677c2"
+	},
+	"lastError": 1738451579192
+}
